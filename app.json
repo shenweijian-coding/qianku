@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/user/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#008bff",
+    "navigationBarTitleText": "千库素材下载",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#919499",
+    "selectedColor": "#008bff",
+    "backgroundColor": "#fff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "素材下载",
+        "iconPath": "./image/down.png",
+        "selectedIconPath": "./image/down_ac.png"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "text": "个人中心",
+        "iconPath": "./image/user.png",
+        "selectedIconPath": "./image/user_ac.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
