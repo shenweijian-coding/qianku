@@ -1,0 +1,17 @@
+<view class="container">
+  <input type="text" class="input-jiexi" placeholder="请复制素材链接到此处"/>
+  <button class="btn-jiexi">立即解析</button>
+</view>
+
+<view class="container">
+  <view class="list">
+    <view class="li-item">
+      <image class="li-img" src="https://img.ui.cn/data/file/7/1/7/2205717.jpg?imageView/1/w/420/h/315/format/webp/sharpen/100/quality/100"></image>
+      <view class="li-con">
+        <view class="li-title">摄图下载小程序</view>
+        <view class="li-desc">点我进入免费下载</view>
+      </view>
+      <view class="li-action">进入</view>
+    </view>
+  </view>
+</view>

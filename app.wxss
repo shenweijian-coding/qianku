@@ -1,0 +1,43 @@
+.container{
+  padding: 0 30rpx;
+}
+.btn-jiexi{
+  margin: 20rpx auto !important;
+  width: 100% !important;
+  background-color: #008bff;
+  color: #fff;
+}
+.input-jiexi{
+  margin-top: 20rpx;
+  padding: 14rpx 12rpx;
+  border: 1rpx solid #eee;
+}
+.li-item{
+  display: flex;
+  align-items: center;
+  border-bottom: 1rpx solid #eee;
+  padding: 20rpx 0
+}
+.li-img{
+  width: 98rpx;
+  height: 98rpx;
+  border-radius: 50%;
+}
+.li-con{
+  margin-left: 16rpx;
+  width: 70%;
+  display: flex;
+  line-height: 40rpx;
+  flex-direction: column;
+}
+.li-title{
+  
+}
+.li-desc{
+  color: #919499;
+  font-size: 20rpx;
+}
+.li-action{
+  color: #008bff;
+  float: right;
+}
